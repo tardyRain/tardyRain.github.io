@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/tardyRain/tardyRain.github.io/blob/master/apple.ipa</string>
+					<string>https://raw.githubusercontent.com/tardyRain/tardyRain.github.io/master/apple.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
